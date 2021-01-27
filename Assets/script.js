@@ -42,16 +42,15 @@ $(document).ready(function () { // "save" button function & event listener
     };
 
     // Get available items form localStorage if there are any.
-    $("#8Am .description").val(localStorage.getItem("8Am"));
-    $("#9Am .description").val(localStorage.getItem("9Am"));
-    $("#10Am .description").val(localStorage.getItem("10Am"));
-    $("#11Am .description").val(localStorage.getItem("11Am"));
-    $("#12Pm .description").val(localStorage.getItem("12Pm"));
-    $("#1Pm .description").val(localStorage.getItem("1Pm"));
-    $("#2Pm .description").val(localStorage.getItem("2Pm"));
-    $("#3Pm .description").val(localStorage.getItem("3Pm"));
-    $("#4Pm .description").val(localStorage.getItem("4Pm"));
-    $("#5Pm .description").val(localStorage.getItem("5Pm"));
+    $("#hour9AM .description").val(localStorage.getItem("hour9AM"));
+    $("#hour10AM .description").val(localStorage.getItem("hour10AM"));
+    $("#hour11AM .description").val(localStorage.getItem("hour11AM"));
+    $("#hour12PM .description").val(localStorage.getItem("hour12PM"));
+    $("#hour13PM .description").val(localStorage.getItem("hour13PM"));
+    $("#hour14PM .description").val(localStorage.getItem("hour14PM"));
+    $("#hour15PM .description").val(localStorage.getItem("hour15PM"));
+    $("#hour16PM .description").val(localStorage.getItem("hour16PM"));
+    $("#hour17PM .description").val(localStorage.getItem("hour17PM"));
 
     timeTracker();
 })
