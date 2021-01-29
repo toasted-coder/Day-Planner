@@ -21,5 +21,5 @@ https://toasted-coder.github.io/Day-Planner/
 ## Screenshots
 
 ```
-![Screenshot] (Assets/screenshot.jpeg)
+![Screenshot] (Assets/screenshot.jpg)
 ```
