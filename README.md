@@ -13,6 +13,9 @@ SO THAT I can manage my time effectively
 ```
 ## Repository and Live Site
 ```
+https://github.com/toasted-coder/Day-Planner
+<br>
+https://toasted-coder.github.io/Day-Planner/
 
 ```
 
